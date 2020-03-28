@@ -1,5 +1,6 @@
 .container{
-    margin-bottom: 90px;
+    margin-bottom: 60px;
+    padding: 10px;
 }
 .orange-bg{
     background-color: #fceae8;
@@ -20,6 +21,13 @@
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+.cat1, .cat2, .cat3,.picture img{
+    height: 120px;
 }
 .cat1{
     background-color: orange;
