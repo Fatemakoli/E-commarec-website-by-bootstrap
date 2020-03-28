@@ -21,3 +21,12 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: rgb(177, 212, 241);
+}
+.cat3{
+    background-color: rgb(238, 143, 182);
+}
