@@ -27,7 +27,7 @@
     border-radius: 20px;
 }
 .cat1, .cat2, .cat3,.picture img{
-    height: 120px;
+    height: 100px;
 }
 .cat1{
     background-color: orange;
@@ -37,4 +37,18 @@
 }
 .cat3{
     background-color: rgb(238, 143, 182);
+}
+.card-img-top{
+    height: 200px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    padding: 20px;
+    margin: 10px;
+    height: 450px;
+    width: 200px;
+}
+#ContactUs{
+    height: 300px;
 }
